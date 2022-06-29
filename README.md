@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LightBlue44/Projects](https://github.com/LightBlue44/Projects)
 
+- My discord nick is Twilight#2607
+
 - 💬 Ask me about **anything you want to**
 
 - 📫 How to reach me **thalesgirotto@gmail.com**
@@ -29,7 +31,6 @@
 <a href="https://fb.com/thales girotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thales girotto" height="30" width="40" /></a>
 <a href="https://instagram.com/thalesgirotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thalesgirotto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lightblue44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lightblue44" height="30" width="40" /></a>
-<a href="https://discord.gg/#2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2607" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
